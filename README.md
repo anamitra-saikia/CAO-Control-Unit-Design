@@ -3,17 +3,17 @@
 
 ## GROUP 12
 ### Team Members
-Rahul Sah
+### Rahul Sah
 - Scholar ID: 1815057
 - Phone no.: 86389 87052
-Pocham Umesh Chandras
+### Pocham Umesh Chandras
 - Scholar ID: 1815058
 - Phone no.: 99519 49345
-Swagat S. Bhuyan
+### Swagat S. Bhuyan
 - Scholar ID: 1815059
 - Phone no.: 8473914443
 - Email: swagatsbhuyan132@gmail.com
-Anamitra Saikia
+### Anamitra Saikia
 - Scholar ID: 1815060
 - Phone no.: 9577425342
 - Email : anamitra.vkv@gmail.com
